@@ -20,6 +20,6 @@ ans = d**0.5
 print(f"{ans:.2f}")
 ```
 ### OUTPUT:
-![image](https://github.com/Visalan-H/DISTANCE-BETWEEN-TWO-POINTS/assets/152077751/c723424b-cfff-4622-8719-e4f01e8ed22a)
+![alt text](image.png)
 ### RESULT:
 Thus the outputs of the programs are verified.
